@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite the manuscript and the official IHME GHDx source records listed in the README."
+title: "US Cardiovascular-Kidney-Metabolic Burden: GBD 2023 source data and analysis code"
+version: "2026.07.22"
+date-released: 2026-07-22
+type: software
+authors:
+  - family-names: Jiang
+    given-names: Fan
+    orcid: https://orcid.org/0000-0002-9257-206X
+  - family-names: Su
+    given-names: Xing
+    orcid: https://orcid.org/0000-0001-7734-968X
+  - family-names: Chen
+    given-names: Chen
+  - family-names: Li
+    given-names: Yanyan
+    orcid: https://orcid.org/0009-0005-1268-5857
+  - family-names: Wu
+    given-names: Xiaolan
+    orcid: https://orcid.org/0009-0000-8226-4613
+  - family-names: Su
+    given-names: Feifei
+    orcid: https://orcid.org/0009-0008-4989-2413
+  - family-names: Tian
+    given-names: Jianwei
+  - family-names: Zhang
+    given-names: Haitao
+    orcid: https://orcid.org/0009-0008-7993-6667
+  - family-names: Cao
+    given-names: Yukun
+    orcid: https://orcid.org/0009-0001-6175-109X
+  - family-names: Cai
+    given-names: Yue
+    orcid: https://orcid.org/0000-0002-3335-0192
+  - family-names: Zhang
+    given-names: Jing
+    orcid: https://orcid.org/0009-0000-5498-6221
+  - family-names: Cao
+    given-names: Yanjie
+    orcid: https://orcid.org/0000-0002-5756-1330
+keywords:
+  - cardiovascular-kidney-metabolic syndrome
+  - Global Burden of Disease
+  - epidemiology
+  - United States
+repository-code: https://github.com/JivonKiang/US_CKM_Burden_GBD_2023
+license: "MIT for code; third-party terms apply to source data"
