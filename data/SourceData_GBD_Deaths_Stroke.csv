@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Stroke,"Deaths per 100,000",46.51543752168109,40.9126508377975,50.57785534568413
+All Population,United States of America,1991,Age-standardized,Both,Stroke,"Deaths per 100,000",45.20059558291895,39.555396043022775,49.27071502514897
+All Population,United States of America,1992,Age-standardized,Both,Stroke,"Deaths per 100,000",44.29689157310341,38.879568594571154,48.24345278894212
+All Population,United States of America,1993,Age-standardized,Both,Stroke,"Deaths per 100,000",45.22928922283226,39.80052727192559,49.44064606438317
+All Population,United States of America,1994,Age-standardized,Both,Stroke,"Deaths per 100,000",45.31036623544491,39.99526509256296,49.43355928236177
+All Population,United States of America,1995,Age-standardized,Both,Stroke,"Deaths per 100,000",45.51204558208316,40.40512368668193,49.38996235455428
+All Population,United States of America,1996,Age-standardized,Both,Stroke,"Deaths per 100,000",45.221619088333796,40.18621132010362,49.089174809392546
+All Population,United States of America,1997,Age-standardized,Both,Stroke,"Deaths per 100,000",44.503951925210394,39.229755792081896,48.18753343283716
+All Population,United States of America,1998,Age-standardized,Both,Stroke,"Deaths per 100,000",43.8300702547307,38.28189481381215,47.5409219035571
+All Population,United States of America,1999,Age-standardized,Both,Stroke,"Deaths per 100,000",43.85605198600047,38.19732630884432,47.440391276595435
+All Population,United States of America,2000,Age-standardized,Both,Stroke,"Deaths per 100,000",43.049739208449814,37.35566619363967,46.547253514071045
+All Population,United States of America,2001,Age-standardized,Both,Stroke,"Deaths per 100,000",42.164988611157455,36.5376883710767,45.6453561560901
+All Population,United States of America,2002,Age-standardized,Both,Stroke,"Deaths per 100,000",41.40133512019121,35.568274586871176,45.1287270020003
+All Population,United States of America,2003,Age-standardized,Both,Stroke,"Deaths per 100,000",39.863671734563496,34.133373971851235,43.42049049166547
+All Population,United States of America,2004,Age-standardized,Both,Stroke,"Deaths per 100,000",37.60494591424094,32.27874175442404,40.732044835411685
+All Population,United States of America,2005,Age-standardized,Both,Stroke,"Deaths per 100,000",36.33555421454049,31.416561220276296,39.41326384108918
+All Population,United States of America,2006,Age-standardized,Both,Stroke,"Deaths per 100,000",34.812066000473344,30.234876997146312,37.76588562125895
+All Population,United States of America,2007,Age-standardized,Both,Stroke,"Deaths per 100,000",33.80643934849483,29.299892415532955,36.93643201517937
+All Population,United States of America,2008,Age-standardized,Both,Stroke,"Deaths per 100,000",33.2545058838123,29.002559205312046,36.56836615397462
+All Population,United States of America,2009,Age-standardized,Both,Stroke,"Deaths per 100,000",31.76170676276812,27.794722530617996,35.07647883219365
+All Population,United States of America,2010,Age-standardized,Both,Stroke,"Deaths per 100,000",31.348702312840246,27.296017685009655,34.6073163043831
+All Population,United States of America,2011,Age-standardized,Both,Stroke,"Deaths per 100,000",31.041288509479767,27.229693403316293,34.15612831167055
+All Population,United States of America,2012,Age-standardized,Both,Stroke,"Deaths per 100,000",30.624551034932,26.85240201711553,33.77745936034209
+All Population,United States of America,2013,Age-standardized,Both,Stroke,"Deaths per 100,000",30.489488883449535,26.61847733947606,33.70907737382371
+All Population,United States of America,2014,Age-standardized,Both,Stroke,"Deaths per 100,000",30.60247724897117,26.569668216038462,33.84503495199927
+All Population,United States of America,2015,Age-standardized,Both,Stroke,"Deaths per 100,000",31.41149361243727,27.24634322500874,34.46880450165012
+All Population,United States of America,2016,Age-standardized,Both,Stroke,"Deaths per 100,000",31.39737450315787,27.22310066086109,34.450877269251045
+All Population,United States of America,2017,Age-standardized,Both,Stroke,"Deaths per 100,000",31.646507802819887,27.614208090031976,34.62207844654154
+All Population,United States of America,2018,Age-standardized,Both,Stroke,"Deaths per 100,000",31.37836668667319,27.304608686834648,34.15018620334538
+All Population,United States of America,2019,Age-standardized,Both,Stroke,"Deaths per 100,000",30.571485382684717,26.43344548525523,33.78883281052107
+All Population,United States of America,2020,Age-standardized,Both,Stroke,"Deaths per 100,000",31.24298739437624,27.531319819164935,33.990781521164706
+All Population,United States of America,2021,Age-standardized,Both,Stroke,"Deaths per 100,000",30.983947551779387,27.197635076221793,33.678317565325386
+All Population,United States of America,2022,Age-standardized,Both,Stroke,"Deaths per 100,000",31.525772037832535,27.515916613507226,34.34285215973368
+All Population,United States of America,2023,Age-standardized,Both,Stroke,"Deaths per 100,000",29.92505571365936,25.883774672359266,32.974858583881144
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
