@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1374.557298606369,1236.3300261231748,1522.7490475866264
+All Population,United States of America,1991,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1376.138551705812,1240.0357589148919,1525.0143590281987
+All Population,United States of America,1992,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1380.8096970116517,1248.3437187017373,1529.8869510971576
+All Population,United States of America,1993,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1387.874007164597,1261.1657068492118,1536.6168689334086
+All Population,United States of America,1994,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1396.8322251310335,1274.8438897286683,1544.7627928267166
+All Population,United States of America,1995,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1406.9944465078947,1288.0575097700098,1554.0741775430988
+All Population,United States of America,1996,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1424.3198690421086,1310.8423845124967,1568.2444863313501
+All Population,United States of America,1997,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1450.7839127165525,1343.689693228028,1590.1414975161283
+All Population,United States of America,1998,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1479.8696027719025,1377.2353362957797,1614.1623840949055
+All Population,United States of America,1999,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1505.1618507410828,1402.2014972220845,1632.8257401542382
+All Population,United States of America,2000,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1520.175828194136,1421.6849688459058,1638.8464543930043
+All Population,United States of America,2001,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1526.204530797957,1429.4868666966995,1642.2456218155826
+All Population,United States of America,2002,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1529.4138285629317,1435.5271658911543,1639.2461717917934
+All Population,United States of America,2003,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1530.5391573985212,1440.1086072001608,1631.9458694306459
+All Population,United States of America,2004,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1530.4093391578167,1442.571183756506,1624.1787129556947
+All Population,United States of America,2005,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1529.8116309917348,1444.228315259107,1617.5442282241897
+All Population,United States of America,2006,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1528.2144613677674,1444.261354712562,1614.9537570562807
+All Population,United States of America,2007,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1525.5701207757693,1443.9614201634356,1611.1396152291773
+All Population,United States of America,2008,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1522.1824665990864,1444.4902518494475,1605.381609686862
+All Population,United States of America,2009,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1518.7268981962843,1443.314137591185,1598.5148837718025
+All Population,United States of America,2010,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1515.8365212848562,1442.0483796502322,1590.2344776468135
+All Population,United States of America,2011,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1512.8389232633374,1440.115410145442,1587.9949327557513
+All Population,United States of America,2012,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1508.9906734891779,1437.084495112942,1582.9030334658032
+All Population,United States of America,2013,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1504.460444688245,1432.55791723951,1577.474903036076
+All Population,United States of America,2014,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1499.5819620921893,1428.4929215869693,1571.9723408694056
+All Population,United States of America,2015,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1494.6761502122931,1424.2154121733943,1566.9510602960331
+All Population,United States of America,2016,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1487.9251801951948,1417.703125128975,1562.013940854271
+All Population,United States of America,2017,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1478.6079633951624,1407.7448263117647,1552.2315641810092
+All Population,United States of America,2018,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1468.9684415308607,1396.6057217850846,1543.5270146015073
+All Population,United States of America,2019,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1461.090939568823,1386.7323767160694,1536.9208258236322
+All Population,United States of America,2020,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1457.0979968273853,1379.3518623260122,1533.9425580680684
+All Population,United States of America,2021,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1471.9985742462366,1388.484946420636,1557.7215569406142
+All Population,United States of America,2022,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1487.7547990236671,1405.0563995420782,1581.9119897038422
+All Population,United States of America,2023,Age-standardized,Both,Stroke,"Prevalent cases per 100,000",1478.170647352871,1387.5671129833966,1569.694171220691
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
