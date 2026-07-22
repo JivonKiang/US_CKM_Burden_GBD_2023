@@ -1,0 +1,11 @@
+Reproducibility lock snapshot (2026-07-21)
+Python: 3.13.5
+pandas==2.3.3
+numpy==2.3.4
+scipy==1.16.3
+statsmodels==0.14.5
+matplotlib==3.10.7
+R: R version 4.6.1 (2026-06-24 ucrt) -- "Happy Hop"
+Node: v20.19.4
+Target journal: The Lancet Regional Health - Americas
+Note: this records the local rebuild environment; a public repository lockfile and accession remain to be added.
