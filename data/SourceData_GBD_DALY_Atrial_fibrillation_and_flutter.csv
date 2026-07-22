@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",123.25873983940899,95.95569396597531,156.75503554073788
+All Population,United States of America,1991,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",123.13194632898464,96.91630363700958,154.22226063984985
+All Population,United States of America,1992,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",122.81711753872611,97.4703219781739,152.1202787632912
+All Population,United States of America,1993,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",123.60110411549203,98.48898553309195,153.25347264477148
+All Population,United States of America,1994,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",123.43237889070222,98.5481563995637,153.51673518173456
+All Population,United States of America,1995,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",124.06699116807802,99.29879394922399,154.58228947841286
+All Population,United States of America,1996,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",125.2874325764769,100.6892186390978,155.29505496738759
+All Population,United States of America,1997,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",126.56797613381224,101.79107876418387,156.5483624768711
+All Population,United States of America,1998,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",128.11602204066372,103.01799655980477,157.8831233866195
+All Population,United States of America,1999,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",129.61706517985976,104.62675652179705,159.33835627371985
+All Population,United States of America,2000,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",130.14573169521333,105.04480368114528,159.42144309513512
+All Population,United States of America,2001,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",131.08934005126892,106.51407499989566,159.3005499621301
+All Population,United States of America,2002,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",132.98856662839074,109.32829238337001,160.62285331290613
+All Population,United States of America,2003,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",134.86734873355167,111.84927117087803,161.38289788970306
+All Population,United States of America,2004,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",135.96459521795023,113.63196416365831,162.3616131394335
+All Population,United States of America,2005,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",138.04981960424024,115.90843343002715,165.17128726491615
+All Population,United States of America,2006,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",138.67093173401545,116.07173895526381,166.16946487608473
+All Population,United States of America,2007,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",140.20343660002226,116.9480525718754,167.8667548996237
+All Population,United States of America,2008,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",142.27798608911363,118.7008150298348,169.95908224453285
+All Population,United States of America,2009,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",142.308758276098,117.93798056246861,171.068700927978
+All Population,United States of America,2010,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",143.63719478145256,119.12998528206381,172.96940293241965
+All Population,United States of America,2011,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",144.2785246580798,119.35868812321866,173.65549012810882
+All Population,United States of America,2012,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",145.07552820754654,119.63895288365877,174.1684297288605
+All Population,United States of America,2013,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",146.25575118394062,120.68415306736172,174.72990310516914
+All Population,United States of America,2014,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",146.75371224864585,121.02830951113953,175.11802343192969
+All Population,United States of America,2015,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",148.92105572124788,123.17798251926219,177.09664229957446
+All Population,United States of America,2016,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",149.8112497622917,123.65208389940493,178.30002364023366
+All Population,United States of America,2017,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",152.20757734967998,125.90482328202467,181.93624378643972
+All Population,United States of America,2018,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",153.7030559840287,126.66523757089605,184.00130910628062
+All Population,United States of America,2019,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",156.7319425304712,130.2552175146553,186.26944038098782
+All Population,United States of America,2020,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",161.77212566705984,135.22652125673298,191.9188805747322
+All Population,United States of America,2021,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",163.86861627271804,136.96653379455907,195.17574213954092
+All Population,United States of America,2022,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",165.88047689398692,138.7136119471295,198.6057718790108
+All Population,United States of America,2023,Age-standardized,Both,Atrial fibrillation and flutter,"DALYs per 100,000",165.3443199095999,138.32507183191106,198.4534532590614
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
