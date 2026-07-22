@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",258.0371570025716,238.93627632747388,282.0240544062139
+All Population,United States of America,1991,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",258.41193466431633,239.28175454517313,282.29232142159634
+All Population,United States of America,1992,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",258.7879169554687,239.64030838248084,282.53510180107054
+All Population,United States of America,1993,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",259.14562360146624,239.99387438153624,282.7398459000884
+All Population,United States of America,1994,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",259.4704537221347,240.3266121062448,282.9147345784626
+All Population,United States of America,1995,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",259.74061306038277,240.6072771403319,283.0524571787394
+All Population,United States of America,1996,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",260.16989910155354,241.02576903305868,283.5958897658448
+All Population,United States of America,1997,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",260.83409104150155,241.64187521006298,284.3710025310442
+All Population,United States of America,1998,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",261.50247893693313,242.1668938615222,285.1361150903375
+All Population,United States of America,1999,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",261.94809148307564,242.44535429282195,285.65127487432204
+All Population,United States of America,2000,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",261.9357737901108,242.4955384427619,285.69579192575344
+All Population,United States of America,2001,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",260.47794404610335,241.2390609315449,283.93613649326676
+All Population,United States of America,2002,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",257.44813778379097,238.55775489146615,280.3786721208005
+All Population,United States of America,2003,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",253.89782956469816,235.4766843409566,276.2111195345908
+All Population,United States of America,2004,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",250.89010089203123,232.87488166673498,272.79687169552824
+All Population,United States of America,2005,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",249.4700043768717,231.68762018980527,271.22355127109114
+All Population,United States of America,2006,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",249.6494663901062,231.77955690128886,271.320311003965
+All Population,United States of America,2007,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",250.52006130044919,232.4513644710945,272.1832268994815
+All Population,United States of America,2008,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",251.72517782426485,233.62461082863544,273.47188038660795
+All Population,United States of America,2009,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",252.91761357131588,234.78448883673232,274.7602379490242
+All Population,United States of America,2010,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",253.74229860069107,235.50364661761688,275.61168552638236
+All Population,United States of America,2011,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",254.49211221439447,236.30596356417087,276.447964143346
+All Population,United States of America,2012,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",255.54536093299694,237.26160557068647,277.6996496444655
+All Population,United States of America,2013,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",256.6684762160756,238.35105942266307,279.1213034158283
+All Population,United States of America,2014,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",257.6321140738891,239.5252989557315,280.39788342058284
+All Population,United States of America,2015,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",258.1946532656487,239.97774032919298,281.2101244151747
+All Population,United States of America,2016,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",258.6238699672612,240.25400813655935,281.5715022204755
+All Population,United States of America,2017,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",259.19604388992457,240.69307207409074,282.0665259036903
+All Population,United States of America,2018,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",259.6959956850327,241.14182016618207,282.53543786998375
+All Population,United States of America,2019,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",259.8983083333073,241.3107568057714,282.7206669732454
+All Population,United States of America,2020,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",259.5858801037847,240.88619693817546,282.3790810443624
+All Population,United States of America,2021,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",257.19778212401843,238.63532436460295,280.12306710403516
+All Population,United States of America,2022,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",254.8399217242904,236.21313716187348,277.830196444628
+All Population,United States of America,2023,Age-standardized,Both,Chronic kidney disease,"New cases per 100,000",254.9089796989657,236.39887175017915,277.96145228499705
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
