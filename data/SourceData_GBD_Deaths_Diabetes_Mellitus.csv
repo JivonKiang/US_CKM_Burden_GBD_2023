@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",15.14950902743425,13.594409047696127,16.79510966092338
+All Population,United States of America,1991,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",15.492838444111669,13.855956062103731,17.121838098778706
+All Population,United States of America,1992,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",15.71718533232769,14.085648378278824,17.392346871481134
+All Population,United States of America,1993,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",16.530131167787314,14.808901401970262,18.232044329393368
+All Population,United States of America,1994,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",17.096931229180147,15.204921917401668,18.887692265033593
+All Population,United States of America,1995,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",17.63929746709052,15.772346385424415,19.519300563724332
+All Population,United States of America,1996,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",17.966650390181517,16.12297183639269,19.978552156853304
+All Population,United States of America,1997,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",18.038699098160727,16.267969597211895,20.044503912328686
+All Population,United States of America,1998,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",18.295943307814074,16.479925621349384,20.310650216691688
+All Population,United States of America,1999,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",18.683762131559313,16.85802970768939,20.81001412040299
+All Population,United States of America,2000,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",18.773143581952986,16.95572328664219,20.9683486057971
+All Population,United States of America,2001,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",19.044398045091672,17.101009345735232,21.14108945472233
+All Population,United States of America,2002,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",19.261743911399567,17.175701477747285,21.312547575109203
+All Population,United States of America,2003,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",19.22390830775828,16.989755348952137,21.07355642521684
+All Population,United States of America,2004,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",18.760298302023553,16.654077948274118,20.6575049745736
+All Population,United States of America,2005,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",18.718467931988727,16.68262877270273,20.57065883795365
+All Population,United States of America,2006,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",18.047045364880216,16.032842643917345,19.96223387830083
+All Population,United States of America,2007,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",17.288587828170556,15.28812980361717,19.26991595115698
+All Population,United States of America,2008,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",16.735028562154245,14.67060007408395,18.561865922663966
+All Population,United States of America,2009,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",15.979777363738629,13.930137447963915,17.673293739814767
+All Population,United States of America,2010,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",15.117795501514477,13.257773090904156,16.575362835967088
+All Population,United States of America,2011,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",13.854358931333138,12.028707431363625,15.268352561249673
+All Population,United States of America,2012,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",13.242098571245581,11.51775890748599,14.602808572640749
+All Population,United States of America,2013,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.601610268757835,10.99031246478335,13.873135460202798
+All Population,United States of America,2014,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.441336219345418,10.87935247929641,13.666581542736518
+All Population,United States of America,2015,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.515071619638768,11.011440726720505,13.715387423544477
+All Population,United States of America,2016,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.560378608206038,11.102129914841331,13.870566087284045
+All Population,United States of America,2017,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.660907142569423,11.21533406117407,14.085586076521304
+All Population,United States of America,2018,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.600766113837539,11.094618689456038,14.025145069362788
+All Population,United States of America,2019,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.735727614669461,11.258118601814253,14.14730627930627
+All Population,United States of America,2020,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",12.864889595219225,11.452618868461354,14.198757755327204
+All Population,United States of America,2021,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",13.205065792593922,11.598917990536286,14.544534090103474
+All Population,United States of America,2022,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",13.070981989465142,11.448433336343292,14.508714732701838
+All Population,United States of America,2023,Age-standardized,Both,Diabetes mellitus,"Deaths per 100,000",13.086733306612626,11.50687564949874,14.743769149994488
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
