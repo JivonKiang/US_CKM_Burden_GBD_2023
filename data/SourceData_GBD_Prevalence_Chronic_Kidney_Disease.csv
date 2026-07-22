@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7386.68482012104,6902.372333160274,7925.972085310565
+All Population,United States of America,1991,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7387.277968624677,6905.689008986146,7926.816581287485
+All Population,United States of America,1992,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7389.052626391407,6910.341720402061,7927.85396766813
+All Population,United States of America,1993,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7391.965667587294,6916.135438714341,7929.188259204754
+All Population,United States of America,1994,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7395.298432457272,6922.271180603475,7930.237968493347
+All Population,United States of America,1995,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7398.621278431032,6928.108856552409,7930.576772449979
+All Population,United States of America,1996,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7405.034189793949,6934.047708981815,7938.222736581987
+All Population,United States of America,1997,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7415.893260948614,6945.556508760687,7949.78223487165
+All Population,United States of America,1998,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7428.563289550641,6959.649281526995,7963.407315150496
+All Population,United States of America,1999,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7440.056805120759,6973.008053888001,7976.763515110078
+All Population,United States of America,2000,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7447.585247515693,6980.192513125326,7983.530241223281
+All Population,United States of America,2001,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7434.7440570787085,6968.563735392821,7970.743245663899
+All Population,United States of America,2002,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7399.411258163551,6935.588838473404,7934.101466163468
+All Population,United States of America,2003,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7356.178751348316,6894.874066904404,7888.9774098651405
+All Population,United States of America,2004,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7318.989666962391,6859.36224044989,7849.708062941438
+All Population,United States of America,2005,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7302.805637470892,6842.984937277092,7834.416415884752
+All Population,United States of America,2006,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7306.138638233876,6852.457027845285,7829.298340494725
+All Population,United States of America,2007,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7318.993332152161,6870.334131444786,7835.017301183459
+All Population,United States of America,2008,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7336.2162462894985,6891.821318426541,7846.496547995602
+All Population,United States of America,2009,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7353.736871112804,6912.895306207335,7859.606628727478
+All Population,United States of America,2010,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7368.097483479134,6930.0720718181465,7875.0950715199015
+All Population,United States of America,2011,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7382.144986168486,6940.835239053123,7890.702933528414
+All Population,United States of America,2012,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7399.069963774209,6954.204623935133,7915.896339828607
+All Population,United States of America,2013,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7417.889134840232,6970.029416893919,7943.357168338949
+All Population,United States of America,2014,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7435.627035355003,6985.985550022425,7966.938539748134
+All Population,United States of America,2015,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7450.921622235553,7000.909212514392,7984.674287152999
+All Population,United States of America,2016,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7497.5930207091715,7045.367259866532,8031.377655445048
+All Population,United States of America,2017,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7589.095650909072,7132.267926289067,8129.220936854227
+All Population,United States of America,2018,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7693.373527123354,7231.693024569752,8242.430771243324
+All Population,United States of America,2019,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7778.805685171497,7311.373935559695,8333.749452088803
+All Population,United States of America,2020,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7813.709493541475,7344.613299807556,8369.228546211049
+All Population,United States of America,2021,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7777.6911138828855,7306.071582636137,8338.256360455069
+All Population,United States of America,2022,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7734.123852276961,7258.951549192115,8293.362507519092
+All Population,United States of America,2023,Age-standardized,Both,Chronic kidney disease,"Prevalent cases per 100,000",7736.252391137963,7252.190812825879,8297.68600716807
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
