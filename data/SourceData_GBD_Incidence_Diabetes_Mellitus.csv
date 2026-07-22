@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",238.43288245960306,216.53245722206321,262.1303065642447
+All Population,United States of America,1991,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",240.99746185721497,219.46648565778224,264.45794896356665
+All Population,United States of America,1992,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",243.4699950286342,222.28638121762225,267.70612086199696
+All Population,United States of America,1993,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",245.8285449457998,224.96049588989044,270.053735372245
+All Population,United States of America,1994,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",248.0820112837654,227.0306550006762,272.1882611771101
+All Population,United States of America,1995,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",250.2367275128646,228.68776482176347,274.1921619129567
+All Population,United States of America,1996,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",252.6173578674546,231.11344875876057,276.8391934095105
+All Population,United States of America,1997,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",255.53382076951672,234.07569413742172,279.1939659865024
+All Population,United States of America,1998,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",258.94963815747116,238.07485207956407,282.22569084822914
+All Population,United States of America,1999,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",262.8442295012913,242.65596777926817,284.8608837457655
+All Population,United States of America,2000,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",267.1855053700192,247.8656128622662,290.06429145131943
+All Population,United States of America,2001,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",272.49916587937406,254.1295138937166,294.0420408524261
+All Population,United States of America,2002,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",278.8494519048249,260.29240921659573,298.764818409981
+All Population,United States of America,2003,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",285.45937977292425,266.85282144540076,303.79914241596384
+All Population,United States of America,2004,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",291.57879495044614,273.2236684204839,309.64145525840115
+All Population,United States of America,2005,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",296.44050979712193,278.06202493629985,314.18323696093205
+All Population,United States of America,2006,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",300.6586751992803,282.6683930364034,318.10262296953005
+All Population,United States of America,2007,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",305.23665523911745,287.7850734635363,322.0425053685317
+All Population,United States of America,2008,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",309.90862886812033,292.7784391919877,326.90591170684263
+All Population,United States of America,2009,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",314.4562164707156,297.4157335133695,330.96463564086963
+All Population,United States of America,2010,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",318.6580938886526,301.73440691784583,334.9219173895531
+All Population,United States of America,2011,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",323.01163686931494,305.9841209142095,338.9140010062046
+All Population,United States of America,2012,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",327.94372086516836,310.56922049374725,343.63204753447883
+All Population,United States of America,2013,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",333.0983675101289,316.11739260484893,349.29919205365786
+All Population,United States of America,2014,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",338.13972716021124,320.49167968358006,354.8427043937898
+All Population,United States of America,2015,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",342.7211606893638,324.2657902731061,359.568079052899
+All Population,United States of America,2016,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",346.9413107608276,328.2766213496397,364.0570050124118
+All Population,United States of America,2017,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",351.1578177106402,332.16711860456394,368.67941877765315
+All Population,United States of America,2018,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",355.4147337073452,336.14257674423385,373.50970885680147
+All Population,United States of America,2019,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",359.76239790112106,340.1374529249126,378.35146223301354
+All Population,United States of America,2020,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",364.2138556905945,343.7856415696704,384.1210066119557
+All Population,United States of America,2021,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",369.9831565315505,347.9065171439732,390.577616544774
+All Population,United States of America,2022,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",376.70264234655906,353.76998213483694,398.51440454685354
+All Population,United States of America,2023,Age-standardized,Both,Diabetes mellitus,"New cases per 100,000",387.16616208595417,362.4893349202042,410.311974713884
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
