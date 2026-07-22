@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Stroke,"DALYs per 100,000",1022.4263147036073,930.923567694842,1105.186019780801
+All Population,United States of America,1991,Age-standardized,Both,Stroke,"DALYs per 100,000",999.2630945741008,908.9243618203429,1080.9532131184365
+All Population,United States of America,1992,Age-standardized,Both,Stroke,"DALYs per 100,000",983.3421642401573,892.0916414163594,1067.0309267227108
+All Population,United States of America,1993,Age-standardized,Both,Stroke,"DALYs per 100,000",998.047927789783,903.2041858739987,1083.8034890337954
+All Population,United States of America,1994,Age-standardized,Both,Stroke,"DALYs per 100,000",1000.7752980217875,905.3362442127628,1085.3008286286129
+All Population,United States of America,1995,Age-standardized,Both,Stroke,"DALYs per 100,000",1004.8456969257361,913.580764787742,1089.6997017242793
+All Population,United States of America,1996,Age-standardized,Both,Stroke,"DALYs per 100,000",999.0764507475276,907.9201513886966,1082.013562533516
+All Population,United States of America,1997,Age-standardized,Both,Stroke,"DALYs per 100,000",986.2747048812074,892.4170746561751,1067.1679759511262
+All Population,United States of America,1998,Age-standardized,Both,Stroke,"DALYs per 100,000",974.0116779812578,877.8283060951325,1050.4767170834934
+All Population,United States of America,1999,Age-standardized,Both,Stroke,"DALYs per 100,000",965.8355213019089,866.875990075277,1041.4264062274772
+All Population,United States of America,2000,Age-standardized,Both,Stroke,"DALYs per 100,000",953.5917889107149,856.6326032963168,1029.425580584643
+All Population,United States of America,2001,Age-standardized,Both,Stroke,"DALYs per 100,000",936.8751968242026,843.5783450182272,1009.9427630286792
+All Population,United States of America,2002,Age-standardized,Both,Stroke,"DALYs per 100,000",923.1085275280903,828.4130553234501,996.1006609738301
+All Population,United States of America,2003,Age-standardized,Both,Stroke,"DALYs per 100,000",898.3501847722396,808.6848694997701,970.3181344686786
+All Population,United States of America,2004,Age-standardized,Both,Stroke,"DALYs per 100,000",862.0445599673409,777.5267821698714,932.0689080825093
+All Population,United States of America,2005,Age-standardized,Both,Stroke,"DALYs per 100,000",844.4532356610624,759.8123363654215,915.7351633297013
+All Population,United States of America,2006,Age-standardized,Both,Stroke,"DALYs per 100,000",822.7422619687048,743.1599635703911,894.9899544628529
+All Population,United States of America,2007,Age-standardized,Both,Stroke,"DALYs per 100,000",803.9061120193742,724.1000268584812,876.1763849249593
+All Population,United States of America,2008,Age-standardized,Both,Stroke,"DALYs per 100,000",793.4779550769997,714.4742616510296,869.1107107535729
+All Population,United States of America,2009,Age-standardized,Both,Stroke,"DALYs per 100,000",768.6191211697023,694.9752796632029,844.9617574812338
+All Population,United States of America,2010,Age-standardized,Both,Stroke,"DALYs per 100,000",757.4558475275492,685.56205896026,835.0268907401659
+All Population,United States of America,2011,Age-standardized,Both,Stroke,"DALYs per 100,000",750.1356040837767,677.3704212105004,830.3856614053683
+All Population,United States of America,2012,Age-standardized,Both,Stroke,"DALYs per 100,000",741.4346338517468,670.7070308843709,818.8035460336769
+All Population,United States of America,2013,Age-standardized,Both,Stroke,"DALYs per 100,000",738.0174397509197,665.4925336688042,814.4437842236028
+All Population,United States of America,2014,Age-standardized,Both,Stroke,"DALYs per 100,000",739.7194719832278,663.4427056115143,817.4183757747752
+All Population,United States of America,2015,Age-standardized,Both,Stroke,"DALYs per 100,000",751.9411171884026,675.5551436314221,828.6949097456618
+All Population,United States of America,2016,Age-standardized,Both,Stroke,"DALYs per 100,000",753.627425771948,680.2519919244404,828.6232796162644
+All Population,United States of America,2017,Age-standardized,Both,Stroke,"DALYs per 100,000",755.7550403559628,685.1412957620649,831.7441425035481
+All Population,United States of America,2018,Age-standardized,Both,Stroke,"DALYs per 100,000",748.7478040623896,677.9986180856646,826.2761672578388
+All Population,United States of America,2019,Age-standardized,Both,Stroke,"DALYs per 100,000",733.2935465174527,663.9483033000027,805.5779768343232
+All Population,United States of America,2020,Age-standardized,Both,Stroke,"DALYs per 100,000",749.7472012615435,683.4399024075158,820.5946074454237
+All Population,United States of America,2021,Age-standardized,Both,Stroke,"DALYs per 100,000",750.8898717490968,682.2759633811949,818.056188426428
+All Population,United States of America,2022,Age-standardized,Both,Stroke,"DALYs per 100,000",758.0907537094927,684.7369738189783,823.3242873551868
+All Population,United States of America,2023,Age-standardized,Both,Stroke,"DALYs per 100,000",727.4019944263621,648.9126288955163,797.9062627512069
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
