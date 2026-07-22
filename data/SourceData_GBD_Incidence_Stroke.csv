@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Stroke,"New cases per 100,000",121.86832255501037,103.88375691973266,141.4672355035054
+All Population,United States of America,1991,Age-standardized,Both,Stroke,"New cases per 100,000",116.35084382701987,100.3754017529893,134.264873862036
+All Population,United States of America,1992,Age-standardized,Both,Stroke,"New cases per 100,000",111.318448434562,96.88256801646725,127.31054300765105
+All Population,United States of America,1993,Age-standardized,Both,Stroke,"New cases per 100,000",107.07600277415712,94.24960839625398,121.82829268284516
+All Population,United States of America,1994,Age-standardized,Both,Stroke,"New cases per 100,000",103.93193731028697,92.17673779741897,117.20366402452552
+All Population,United States of America,1995,Age-standardized,Both,Stroke,"New cases per 100,000",102.19256221618849,91.17853769661748,115.01837138544393
+All Population,United States of America,1996,Age-standardized,Both,Stroke,"New cases per 100,000",101.3616048723175,90.47366776053309,113.94470779271667
+All Population,United States of America,1997,Age-standardized,Both,Stroke,"New cases per 100,000",100.72399551086598,89.86587199329185,113.12426001952939
+All Population,United States of America,1998,Age-standardized,Both,Stroke,"New cases per 100,000",100.2578549816052,89.35724736254951,112.53830839688052
+All Population,United States of America,1999,Age-standardized,Both,Stroke,"New cases per 100,000",99.95384477901096,89.24470057200669,112.13467577494184
+All Population,United States of America,2000,Age-standardized,Both,Stroke,"New cases per 100,000",99.79396849980229,89.26297405090207,111.87210060363628
+All Population,United States of America,2001,Age-standardized,Both,Stroke,"New cases per 100,000",100.1078161706067,90.42158593838668,111.3262684822646
+All Population,United States of America,2002,Age-standardized,Both,Stroke,"New cases per 100,000",100.95923954872106,91.66577619612455,111.11590302609733
+All Population,United States of America,2003,Age-standardized,Both,Stroke,"New cases per 100,000",101.90210297846838,93.0760937261756,111.02463557871889
+All Population,United States of America,2004,Age-standardized,Both,Stroke,"New cases per 100,000",102.50161816689396,94.33873458576613,111.69455390765415
+All Population,United States of America,2005,Age-standardized,Both,Stroke,"New cases per 100,000",102.33084518504037,94.25234532904341,111.56372244901121
+All Population,United States of America,2006,Age-standardized,Both,Stroke,"New cases per 100,000",100.58708919391279,92.93685128659344,108.74504437137784
+All Population,United States of America,2007,Age-standardized,Both,Stroke,"New cases per 100,000",97.44951908911273,90.08720728543273,104.51481569557532
+All Population,United States of America,2008,Age-standardized,Both,Stroke,"New cases per 100,000",93.89585145824302,86.97046042944392,100.5165310998499
+All Population,United States of America,2009,Age-standardized,Both,Stroke,"New cases per 100,000",90.92205667606095,84.33823550985541,97.23780354744954
+All Population,United States of America,2010,Age-standardized,Both,Stroke,"New cases per 100,000",89.5251437422842,83.268627201244,95.64242425622363
+All Population,United States of America,2011,Age-standardized,Both,Stroke,"New cases per 100,000",89.34181930925995,83.06820978250583,95.30366146557941
+All Population,United States of America,2012,Age-standardized,Both,Stroke,"New cases per 100,000",89.33035483165325,83.06998704639055,95.13394883914799
+All Population,United States of America,2013,Age-standardized,Both,Stroke,"New cases per 100,000",89.42750340655121,83.2880722960051,95.10394953540128
+All Population,United States of America,2014,Age-standardized,Both,Stroke,"New cases per 100,000",89.58383634986131,83.53545007665345,95.31345360139497
+All Population,United States of America,2015,Age-standardized,Both,Stroke,"New cases per 100,000",89.749701661898,83.75122701393433,95.5781456917199
+All Population,United States of America,2016,Age-standardized,Both,Stroke,"New cases per 100,000",89.98139629608579,83.91931227334727,95.82535695432414
+All Population,United States of America,2017,Age-standardized,Both,Stroke,"New cases per 100,000",90.3082922861745,84.15840899978267,96.23182604819607
+All Population,United States of America,2018,Age-standardized,Both,Stroke,"New cases per 100,000",90.64280580560083,84.39375572560348,96.82145199648733
+All Population,United States of America,2019,Age-standardized,Both,Stroke,"New cases per 100,000",90.8891754666137,84.54290827147761,97.2229150355517
+All Population,United States of America,2020,Age-standardized,Both,Stroke,"New cases per 100,000",90.9547527110031,84.52776363441471,97.4590044136275
+All Population,United States of America,2021,Age-standardized,Both,Stroke,"New cases per 100,000",89.77861034763605,83.29625597167345,96.25201914196434
+All Population,United States of America,2022,Age-standardized,Both,Stroke,"New cases per 100,000",87.87806011195946,81.34406038505607,94.37472504622518
+All Population,United States of America,2023,Age-standardized,Both,Stroke,"New cases per 100,000",86.16959381324224,79.48481393446951,93.17171370073683
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
