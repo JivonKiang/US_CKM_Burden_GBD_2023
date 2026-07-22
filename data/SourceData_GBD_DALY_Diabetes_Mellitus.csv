@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",692.37984655725,584.3564231704511,822.0815588881094
+All Population,United States of America,1991,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",707.0382373555398,596.751890182562,842.1815406176433
+All Population,United States of America,1992,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",718.2461790843197,607.0668093720475,857.3494336415331
+All Population,United States of America,1993,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",740.9349654908096,626.2269800016713,883.2714012275793
+All Population,United States of America,1994,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",758.820477716404,639.8942705623454,905.2258295343092
+All Population,United States of America,1995,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",775.8267525235148,652.4079763918143,927.4433768457488
+All Population,United States of America,1996,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",784.6252964503198,659.8481781526732,936.9195698555188
+All Population,United States of America,1997,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",785.7374819966454,660.4995014902635,942.1966642475709
+All Population,United States of America,1998,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",792.370633702826,665.640881079789,952.4886918808827
+All Population,United States of America,1999,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",802.3354026663154,674.0347969129339,964.0117834174441
+All Population,United States of America,2000,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",808.1511653053293,676.4474155941991,970.7081399178165
+All Population,United States of America,2001,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",819.4745794715418,684.2975414018864,978.384557315996
+All Population,United States of America,2002,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",832.2759500649145,694.1895500020278,990.7176995524205
+All Population,United States of America,2003,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",839.5098838126257,698.0502670000369,996.7969303912153
+All Population,United States of America,2004,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",835.1497234622175,695.3608929470876,990.3817025821892
+All Population,United States of America,2005,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",841.9113731125185,700.790170167804,1007.208476708637
+All Population,United States of America,2006,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",835.4118234338958,693.6896998923478,1002.047368994983
+All Population,United States of America,2007,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",826.0063005832144,684.4756266654846,987.580313522402
+All Population,United States of America,2008,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",821.6581337916614,681.6373252683121,985.0380604463323
+All Population,United States of America,2009,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",813.6425290768307,670.0634354924815,982.4389992639695
+All Population,United States of America,2010,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",801.2882846034017,657.1002181269005,971.4124531031463
+All Population,United States of America,2011,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",780.9284339597054,635.4571158118329,948.1108401879511
+All Population,United States of America,2012,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",775.3776177996484,630.5947771762322,943.2193729357887
+All Population,United States of America,2013,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",770.826937267988,627.505301910191,936.811881464763
+All Population,United States of America,2014,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",776.7953492027553,633.631324467249,944.7778637693963
+All Population,United States of America,2015,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",788.4833798548182,644.6434128775455,963.8373752027592
+All Population,United States of America,2016,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",798.9530574347509,653.663679643175,975.809300061991
+All Population,United States of America,2017,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",809.4468834044948,659.5064789036743,986.3448470027804
+All Population,United States of America,2018,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",815.669725464023,660.5766387237045,995.0100524104994
+All Population,United States of America,2019,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",826.2815713201936,666.4241714675513,1009.8595789002425
+All Population,United States of America,2020,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",842.7787082759476,678.9685843730704,1033.4927206087616
+All Population,United States of America,2021,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",859.5310639185616,690.69846936231,1054.4504607274666
+All Population,United States of America,2022,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",867.9756107837513,694.133939150427,1070.3846859041118
+All Population,United States of America,2023,Age-standardized,Both,Diabetes mellitus,"DALYs per 100,000",892.6198138862836,717.3475004275258,1100.0225688438468
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
