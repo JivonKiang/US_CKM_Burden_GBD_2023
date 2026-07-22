@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",8.1412295770769,7.107545808765061,9.074285974404031
+All Population,United States of America,1991,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",8.266830894591891,7.213172669541411,9.256652966683903
+All Population,United States of America,1992,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",8.422105421314361,7.30917419039983,9.504727848483776
+All Population,United States of America,1993,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",8.712275282759592,7.544270431960538,9.802352358211772
+All Population,United States of America,1994,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",8.686950056480079,7.503049540477523,9.755296194794068
+All Population,United States of America,1995,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",8.794643873634161,7.5757413254473205,9.790614869628014
+All Population,United States of America,1996,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",8.908353638034894,7.729583132267007,9.948271741434265
+All Population,United States of America,1997,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",9.115910317067618,7.959068587521607,10.146943018006521
+All Population,United States of America,1998,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",9.555237283270664,8.39464611922808,10.595161824919037
+All Population,United States of America,1999,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",10.78876475283726,9.563630454621709,11.932446206193491
+All Population,United States of America,2000,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",12.097987638136374,10.728809610559974,13.459887694280606
+All Population,United States of America,2001,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",12.750272090803415,11.352726492734245,14.242487784566217
+All Population,United States of America,2002,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",13.133728317833748,11.655765139654557,14.671853785060769
+All Population,United States of America,2003,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",13.40980353170852,11.876494012446738,15.063484116161531
+All Population,United States of America,2004,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",13.386871181179355,11.880164761464503,14.958301966822592
+All Population,United States of America,2005,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",13.747379741292281,12.19034310834024,15.450609228494136
+All Population,United States of America,2006,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",13.89594713712255,12.301625159455922,15.610856194595602
+All Population,United States of America,2007,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",14.072222664096508,12.446877872657614,15.782399826233414
+All Population,United States of America,2008,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",14.514386399976093,12.77838537060351,16.138717849092085
+All Population,United States of America,2009,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",14.672243694822761,12.87902627987351,16.219642910837358
+All Population,United States of America,2010,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",15.60022430414325,13.659388825562564,17.11230808708709
+All Population,United States of America,2011,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",17.099419634751392,14.990350152475958,18.864349607817164
+All Population,United States of America,2012,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",17.772589496656032,15.60728130152005,19.52864536849323
+All Population,United States of America,2013,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",18.84343032129741,16.595383247095565,20.65783166649271
+All Population,United States of America,2014,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",19.294595946503573,16.89208064412626,21.11474306091455
+All Population,United States of America,2015,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",20.112650972743303,17.56865393682689,22.01771217503862
+All Population,United States of America,2016,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",20.539237050924395,18.06055664747428,22.458953065267323
+All Population,United States of America,2017,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",21.11510309703187,18.42840218441164,23.191955370569847
+All Population,United States of America,2018,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",21.358785729086154,18.504595895163593,23.60741928455748
+All Population,United States of America,2019,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",21.81126007087278,18.937762844062696,24.343431025942635
+All Population,United States of America,2020,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",22.738562721429496,19.966780997053434,25.19508392308907
+All Population,United States of America,2021,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",22.82920092587754,19.96579429160751,25.185860650830733
+All Population,United States of America,2022,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",23.391878816682365,20.14482157251476,26.01762432463066
+All Population,United States of America,2023,Age-standardized,Both,Chronic kidney disease,"Deaths per 100,000",23.593815115343745,19.97048952717797,26.29226909582305
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
