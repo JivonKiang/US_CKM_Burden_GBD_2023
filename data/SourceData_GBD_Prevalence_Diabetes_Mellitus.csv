@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",4822.640949127672,4385.70629317885,5311.22373142388
+All Population,United States of America,1991,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",4874.513516709589,4425.183770906853,5369.538414780536
+All Population,United States of America,1992,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",4926.986259716195,4471.98796201817,5424.930744971493
+All Population,United States of America,1993,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",4977.735928987031,4523.491692021708,5481.854001072189
+All Population,United States of America,1994,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5024.422561099469,4574.316539567202,5529.464553370996
+All Population,United States of America,1995,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5064.845707382129,4624.199519589935,5563.839515930173
+All Population,United States of America,1996,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5104.174845813083,4671.644327593722,5592.809294345702
+All Population,United States of America,1997,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5149.267705019617,4725.593499748867,5620.870201144809
+All Population,United States of America,1998,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5200.11727771469,4774.466578423074,5654.751471503616
+All Population,United States of America,1999,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5256.814993399976,4847.643867526406,5688.856661700078
+All Population,United States of America,2000,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5319.6380699946585,4931.15244771131,5737.549169860446
+All Population,United States of America,2001,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5397.856114227768,5028.011425743617,5793.611485606501
+All Population,United States of America,2002,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5494.817083384794,5128.622995021416,5867.42697458089
+All Population,United States of America,2003,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5600.822433828457,5248.379059699713,5969.4463511238255
+All Population,United States of America,2004,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5706.522939568438,5358.888582802444,6051.680562438051
+All Population,United States of America,2005,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5802.518291228875,5460.748067861428,6160.413752686549
+All Population,United States of America,2006,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5896.315479593349,5565.626675811134,6245.728594197754
+All Population,United States of America,2007,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",5998.983849552063,5676.789861583853,6329.634952649088
+All Population,United States of America,2008,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6105.465664079409,5790.848247617082,6423.677257694485
+All Population,United States of America,2009,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6211.3248526610005,5903.550573579519,6525.639175441927
+All Population,United States of America,2010,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6312.267442186427,6003.498084680217,6627.118046883067
+All Population,United States of America,2011,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6412.048526242703,6100.383040483871,6729.7518277486315
+All Population,United States of America,2012,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6515.924561118993,6200.641065884681,6841.331180208531
+All Population,United States of America,2013,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6620.609018959947,6301.123465467659,6953.836069948671
+All Population,United States of America,2014,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6723.3734772456355,6399.53455924818,7064.540884527286
+All Population,United States of America,2015,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6821.397894941166,6492.851675873286,7170.634544043247
+All Population,United States of America,2016,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",6915.067893177385,6578.172426469783,7272.383938440494
+All Population,United States of America,2017,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",7007.708146105594,6662.5434043154355,7373.013537340825
+All Population,United States of America,2018,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",7101.405695458023,6750.546954229504,7474.566244622851
+All Population,United States of America,2019,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",7197.997887499219,6840.8469198936145,7578.896510716456
+All Population,United States of America,2020,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",7299.281257731868,6934.049711604823,7687.844846139405
+All Population,United States of America,2021,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",7409.472795244041,7026.466332549227,7799.325188338301
+All Population,United States of America,2022,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",7552.908780440954,7140.4306289384485,7962.410325033175
+All Population,United States of America,2023,Age-standardized,Both,Diabetes mellitus,"Prevalent cases per 100,000",7835.661189684541,7370.564952786476,8302.672057600163
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
