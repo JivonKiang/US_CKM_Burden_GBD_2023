@@ -1,0 +1,9 @@
+Execution environment captured during package rebuild (2026-07-21)
+Python: 3.13.5 (Windows-11-10.0.26200-SP0)
+pandas: 2.3.3
+numpy: 2.3.4
+scipy: 1.16.3
+statsmodels: 0.14.5
+matplotlib: 3.10.7
+R: R version 4.6.1 (2026-06-24 ucrt) -- "Happy Hop"; the R quality-control script is included but was not required for the main aggregate analysis.
+Reproducibility note: package versions describe this local rebuild; they do not replace a lockfile or repository commit.
