@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",330.1609226483521,272.8221705806948,397.70440287239035
+All Population,United States of America,1991,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",330.6930609040887,274.05297834318736,394.1597643467625
+All Population,United States of America,1992,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",331.8650156281004,275.9448778692487,393.97871274918714
+All Population,United States of America,1993,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",333.43736415982573,277.4865989636972,395.72376731808106
+All Population,United States of America,1994,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",335.40185041607265,279.86315795718986,398.97815506854454
+All Population,United States of America,1995,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",337.5877016578709,282.4840614100135,401.7859382938695
+All Population,United States of America,1996,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",342.35998708178556,286.4467560071437,406.339380050079
+All Population,United States of America,1997,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",350.5276433597821,293.1109102536478,414.67846921096316
+All Population,United States of America,1998,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",359.60291295861595,300.3578843912142,424.03800670259466
+All Population,United States of America,1999,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",367.0678378869133,306.09307016897935,431.62936719457537
+All Population,United States of America,2000,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",370.53257802201637,309.34463118541987,434.7923244975139
+All Population,United States of America,2001,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",368.3015094985944,309.38925015180604,429.4325564175509
+All Population,United States of America,2002,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",361.61248835171426,305.65158716388396,417.7697522157919
+All Population,United States of America,2003,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",352.20921187242334,300.56382034119025,404.15951960576825
+All Population,United States of America,2004,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",341.93073792060255,295.5509829983991,389.32932107973255
+All Population,United States of America,2005,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",332.5402542897956,290.59496520074157,376.311620844891
+All Population,United States of America,2006,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",322.84150671135444,285.3017106681964,364.6758419857543
+All Population,United States of America,2007,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",311.346016739922,277.23775543362206,347.918048247004
+All Population,United States of America,2008,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",299.1870346802172,269.1088772817567,330.6965386567899
+All Population,United States of America,2009,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",287.5928405373518,260.91443234164643,314.7486079727135
+All Population,United States of America,2010,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",277.73132829122784,253.74452551068367,301.31531657092756
+All Population,United States of America,2011,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",269.2986822333561,247.1619870212935,290.7176218294824
+All Population,United States of America,2012,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",261.2212861267225,240.78971365982142,280.93050688345716
+All Population,United States of America,2013,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",253.47628396263505,234.51530334381715,271.9330885394149
+All Population,United States of America,2014,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",246.0399194716127,227.93570113214082,263.6395859512963
+All Population,United States of America,2015,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",238.93152147614867,221.69361271237284,257.37966736578664
+All Population,United States of America,2016,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",231.87068972423154,214.5226920084224,249.14710072467972
+All Population,United States of America,2017,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",224.70394476504953,206.7872579304999,241.50506625217875
+All Population,United States of America,2018,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",217.6766963697523,199.0524319307512,235.59411009000385
+All Population,United States of America,2019,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",210.99098695039228,191.8788900426843,230.62104771019716
+All Population,United States of America,2020,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",204.87456253389718,185.00720695050165,226.4232961669733
+All Population,United States of America,2021,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",196.6925842488614,174.97868417415052,220.11607426574795
+All Population,United States of America,2022,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",191.0912862214279,168.0862765368462,214.60356802672837
+All Population,United States of America,2023,Age-standardized,Both,Ischemic heart disease,"New cases per 100,000",194.3683302166876,168.58024470052615,221.3746940511508
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
