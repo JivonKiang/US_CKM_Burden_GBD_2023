@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",182.63599124304764,167.144905120829,192.62519811148553
+All Population,United States of America,1991,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",177.68752430287458,162.20021607911,187.85213849290926
+All Population,United States of America,1992,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",172.16580899525022,157.11289052095114,181.95753869188306
+All Population,United States of America,1993,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",172.5171642940423,157.28466025738706,181.85339779386427
+All Population,United States of America,1994,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",167.52518376244902,152.4138777403862,176.5821538274001
+All Population,United States of America,1995,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",163.8899964586325,148.815126791325,172.9787640679356
+All Population,United States of America,1996,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",159.39381912886248,144.29001457519124,168.20587750562706
+All Population,United States of America,1997,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",153.8619563267896,138.62038528379114,162.66607743798502
+All Population,United States of America,1998,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",149.97893996791427,134.96419639726244,158.51932540514954
+All Population,United States of America,1999,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",149.49576890169158,134.23965335048598,158.0864815725257
+All Population,United States of America,2000,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",143.26356814367062,128.85885446902432,151.59115098820416
+All Population,United States of America,2001,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",138.28053624488427,124.11965180451469,146.51600462255004
+All Population,United States of America,2002,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",134.25118897636364,120.3930328548384,142.42595425697687
+All Population,United States of America,2003,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",128.5850168735456,115.17272563999542,136.43627163528043
+All Population,United States of America,2004,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",120.65912059894912,107.93945754146861,127.97356915432601
+All Population,United States of America,2005,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",117.17162600465714,104.78233990164333,124.40463390834677
+All Population,United States of America,2006,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",111.09025489719986,98.93459568175494,118.22633151996459
+All Population,United States of America,2007,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",105.40481133182189,93.66855515394555,112.36409309097321
+All Population,United States of America,2008,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",102.99862855792298,91.80963547563363,109.7750893882319
+All Population,United States of America,2009,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",97.67643556173294,87.05929536431793,104.20312660583049
+All Population,United States of America,2010,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",94.7819478989795,84.49567474938391,101.33399434862828
+All Population,United States of America,2011,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",92.38883194050034,82.26004735544747,98.8654200303959
+All Population,United States of America,2012,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",90.08403475535013,79.84102974412632,96.1978354657503
+All Population,United States of America,2013,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",88.71494103256464,78.47464577379569,94.80477155972581
+All Population,United States of America,2014,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",86.49911077907207,76.36965253155643,92.66056415121484
+All Population,United States of America,2015,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",85.84558642905588,75.76395222869482,91.88446815695097
+All Population,United States of America,2016,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",84.04980910376135,74.34611144753276,89.90102233080295
+All Population,United States of America,2017,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",83.2603068233947,73.6967904333103,88.98738874522746
+All Population,United States of America,2018,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",82.37324270573131,73.34884817883082,88.13667128487776
+All Population,United States of America,2019,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",78.05760332191925,68.60767222677397,83.86995120468718
+All Population,United States of America,2020,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",79.15929266853516,71.00835754464347,84.23673616602322
+All Population,United States of America,2021,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",77.79929124766917,69.64654412985065,83.02551151299731
+All Population,United States of America,2022,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",77.7926475724672,69.4064966308148,83.13851734498165
+All Population,United States of America,2023,Age-standardized,Both,Ischemic heart disease,"Deaths per 100,000",75.3714605822118,66.66405394975959,81.15850792162733
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
