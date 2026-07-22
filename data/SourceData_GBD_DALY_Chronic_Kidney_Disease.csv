@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,United States of America,1990,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",263.67998742762444,229.87714611025814,294.8352087359711
+All Population,United States of America,1991,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",265.3376425324599,231.12529011708858,297.1907088268634
+All Population,United States of America,1992,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",268.19514762685844,233.74430703768854,301.01797598036575
+All Population,United States of America,1993,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",273.6487079355486,238.91994622144466,307.28183051739256
+All Population,United States of America,1994,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",273.6411312321955,238.91529082613974,307.804861049707
+All Population,United States of America,1995,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",276.55708176114916,242.30323051458387,311.17324017717294
+All Population,United States of America,1996,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",278.6572739845968,244.79322083587502,314.42128500931045
+All Population,United States of America,1997,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",282.94926784393556,249.2750043106856,318.6747416348497
+All Population,United States of America,1998,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",292.8870339690868,258.60986173522053,328.1324388120331
+All Population,United States of America,1999,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",320.5679780517952,286.025666360842,356.5293428809887
+All Population,United States of America,2000,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",345.49567846201825,309.767481206424,384.9852529625323
+All Population,United States of America,2001,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",358.54127539916976,321.50395256313215,397.1306301256283
+All Population,United States of America,2002,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",366.52083264357003,327.89756066609647,403.8449584677646
+All Population,United States of America,2003,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",373.5924418865308,333.4459445231589,413.2159403104784
+All Population,United States of America,2004,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",374.0437477533062,335.3846749278217,416.1313720965841
+All Population,United States of America,2005,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",381.15217095357224,342.3236031531093,422.9000341023038
+All Population,United States of America,2006,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",385.81608230708133,344.4766895599537,429.3930101447223
+All Population,United States of America,2007,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",390.0192454107482,348.56323813831915,434.0159192050409
+All Population,United States of America,2008,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",400.46399239153965,359.28400688352997,444.9476278821308
+All Population,United States of America,2009,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",405.8484560329469,364.130658694483,452.4152772976882
+All Population,United States of America,2010,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",423.4447089957404,379.5121255373947,470.18999042778034
+All Population,United States of America,2011,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",455.9268893832652,407.4346578826799,504.71198556829813
+All Population,United States of America,2012,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",469.9936835412253,421.34911006211985,517.363488922265
+All Population,United States of America,2013,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",492.82164680438615,442.93311412238234,539.1569407665219
+All Population,United States of America,2014,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",504.124383527075,452.96241996844697,550.6984233384479
+All Population,United States of America,2015,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",521.6355423216371,468.41005063348797,572.1088995074841
+All Population,United States of America,2016,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",533.5385746250797,477.4765018400407,584.4436004592807
+All Population,United States of America,2017,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",546.2406364566285,487.2698036508515,597.8557402213266
+All Population,United States of America,2018,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",552.408223716921,493.74423593166904,605.7902529583163
+All Population,United States of America,2019,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",561.9115774126986,506.027972691614,614.9133410354054
+All Population,United States of America,2020,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",584.1097585256757,529.9822195771011,637.2635539359032
+All Population,United States of America,2021,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",587.3048591631829,530.5453215182256,643.5627765529397
+All Population,United States of America,2022,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",592.6085634443285,531.2638285646842,652.192651493304
+All Population,United States of America,2023,Age-standardized,Both,Chronic kidney disease,"DALYs per 100,000",597.8962372893654,532.5718662771026,656.834409924115
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 6/26/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
