@@ -1,35 +1,44 @@
 # US Cardiovascular-Kidney-Metabolic Burden (GBD 2023)
 
-Public code and aggregate source-data release for the manuscript:
-
-> US Cardiovascular-Kidney-Metabolic Burden: Published NHANES Stages, Six Selected GBD Components, and WHO Risk Exposures
+Reproducibility code and source documentation for a source-respecting descriptive analysis of cardiovascular-kidney-metabolic (CKM) burden and monitoring in the United States.
 
 ## Scope
 
-This repository contains the non-identifiable, aggregate files needed to inspect the source-specific analyses. The GBD extracts cover the United States, both sexes, All Population, age-standardized rates, 1990-2023, and six non-additive components: ischemic heart disease, stroke, atrial fibrillation and flutter, lower-extremity peripheral arterial disease, diabetes mellitus, and chronic kidney disease. Four measures are supplied for each component: prevalence, incidence, deaths, and DALYs.
+This repository contains analysis code and limited, source-attributed aggregate data only. It does not contain patient-level data, NHANES XPT files, manuscript files, author-contribution records, credentials, or transcribed JAMA/NHANES tables. The six GBD disease components can overlap and must not be summed or interpreted as a CKM-stage prevalence measure. The optional NHANES script is a survey-design smoke test for non-staging checks only; it does not assign CKM stages.
 
-The repository does not contain individual-level NHANES records, NHANES XPT files, author contact information, submission forms, or the manuscript DOCX. The JAMA/NHANES files are published aggregate estimates transcribed from the cited article; the WHO file is an aggregate GHO extract.
+## Data access
 
-## Data sources
+The GBD input CSV files and their permissions remain the responsibility of the user. Obtain data directly from the appropriate source, review its current terms, and place the 24 annual source files in `data/gbd/` using the names expected by `src/compute_gbd_component_trends.py`. The script expects 34 annual observations from 1990 through 2023 and columns `Year`, `Value`, `Lower bound`, and `Upper bound`.
 
-Official IHME GHDx records and dataset DOIs:
+IHME data downloadable from IHME websites may be used, shared, modified, or built upon by non-commercial users under the IHME Free-of-Charge Non-Commercial User Agreement. The included files are not relicensed by this repository. WHO data are subject to the applicable WHO dataset terms and must retain the prescribed attribution; use must not imply WHO endorsement. Reuse of JAMA Network tables, figures, or selected text requires permission through RightsLink, so no transcribed JAMA/NHANES table is distributed here.
 
-- Cardiovascular burden estimates 1990-2023: https://ghdx.healthdata.org/record/ihme-data/cvd-1990-2023; DOI https://doi.org/10.6069/8HN3-3879
-- CKD mortality, prevalence, and DALY estimates 1990-2023: https://ghdx.healthdata.org/record/ihme-data/gbd-2023-ckd-1990-2023; DOI https://doi.org/10.6069/BNCJ-5T64
-- GBD 2023 risk exposure estimates 1990-2023: https://ghdx.healthdata.org/record/ihme-data/gbd-2023-risk-exposure-estimates-1990-2023; DOI https://doi.org/10.6069/SNHE-RS21
+The optional NHANES survey-design check requires a separately prepared local analytic input. It is intentionally excluded from this repository. Set `CKM_NHANES_QC_INPUT` and `CKM_NHANES_QC_OUTPUT` before running it.
 
-These are authoritative source-dataset identifiers. They are not the original GBD Compare query ID or receipt for the local CSV export. IHME data remain subject to the IHME free-of-charge non-commercial user agreement and terms of use. WHO data remain subject to the source system's terms.
+## Run
 
-## Layout
+```text
+python -m pip install -r requirements.txt
+python src/compute_gbd_component_trends.py
+```
 
-- `data/`: aggregate source data, the field-level GBD query manifest, and the derived trend table.
-- `code/`: Python and R scripts used for data preparation, trend computation, figure construction, and survey-design quality control.
-- `metadata/`: environment snapshots and official source-record notes.
+Set `CKM_GBD_DATA_DIR` to an alternative GBD input directory if needed. The command writes `outputs/gbd_component_trends_1990_2023.csv` by default; set `CKM_OUTPUT_DIR` to change the output directory.
 
-## Reproducibility
+For the optional NHANES design check:
 
-The main aggregate analysis used Python 3.13.5 with pandas 2.3.3, NumPy 2.3.4, SciPy 1.16.3, statsmodels 0.14.5, and Matplotlib 3.10.7. Install the Python dependencies with `python -m pip install -r requirements.txt`. The scripts retain the source-specific analysis boundary: GBD and WHO estimates are not converted into NHANES CKM stages and are not mathematically collapsed into a single stage prevalence.
+```text
+Rscript src/nhanes_survey_design_qc.R
+```
+
+## Methods boundary
+
+The primary trend estimand is the average annual percentage change from a BIC-selected continuous two-segment log-linear model. Candidate breakpoints are prespecified interior years; the selected model uses one-lag HAC covariance. Intervals do not include breakpoint-selection uncertainty or annual GBD input uncertainty. The global log-linear result is a sensitivity diagnostic.
+
+This repository provides code for descriptive trend summaries and source documentation. It is not a CKM-stage estimator, a cross-source validation framework, or a causal analysis.
 
 ## Citation
 
-Please cite the manuscript and the official IHME GHDx records listed above. A repository DOI will be added after this GitHub release is archived in Zenodo or another persistent repository.
+Please cite the associated manuscript when it is published. Cite source datasets according to the requirements of their original providers. The relevant GBD records are documented in `metadata/official_source_records.md`.
+
+## License
+
+The `LICENSE` file applies only to original code. Third-party source-data terms remain controlling.
