@@ -4,13 +4,13 @@ Reproducibility code and source documentation for a source-respecting descriptiv
 
 ## Scope
 
-This repository contains analysis code and limited, source-attributed aggregate data only. It does not contain patient-level data, NHANES XPT files, manuscript files, author-contribution records, credentials, or transcribed JAMA/NHANES tables. The six GBD disease components can overlap and must not be summed or interpreted as a CKM-stage prevalence measure. The optional NHANES script is a survey-design smoke test for non-staging checks only; it does not assign CKM stages.
+This is a code-only release. It contains no third-party source exports, participant-level data, NHANES XPT files, derived analytic inputs, manuscript files, author-contribution records, credentials, or transcribed JAMA/NHANES tables. The six GBD disease components can overlap and must not be summed or interpreted as a CKM-stage prevalence measure. The optional NHANES script is a survey-design smoke test for non-staging checks only; it does not assign CKM stages.
 
 ## Data access
 
 The GBD input CSV files and their permissions remain the responsibility of the user. Obtain data directly from the appropriate source, review its current terms, and place the 24 annual source files in `data/gbd/` using the names expected by `src/compute_gbd_component_trends.py`. The script expects 34 annual observations from 1990 through 2023 and columns `Year`, `Value`, `Lower bound`, and `Upper bound`.
 
-IHME data downloadable from IHME websites may be used, shared, modified, or built upon by non-commercial users under the IHME Free-of-Charge Non-Commercial User Agreement. The included files are not relicensed by this repository. WHO data are subject to the applicable WHO dataset terms and must retain the prescribed attribution; use must not imply WHO endorsement. Reuse of JAMA Network tables, figures, or selected text requires permission through RightsLink, so no transcribed JAMA/NHANES table is distributed here.
+IHME data downloadable from IHME websites may be used, shared, modified, or built upon by non-commercial users under the IHME Free-of-Charge Non-Commercial User Agreement. The data are not redistributed or relicensed by this repository. Reuse of JAMA Network tables, figures, or selected text requires permission through RightsLink, so no transcribed JAMA/NHANES table is distributed here. Users who independently obtain WHO data must follow the applicable dataset terms, retain prescribed attribution, and avoid implying WHO endorsement.
 
 The optional NHANES survey-design check requires a separately prepared local analytic input. It is intentionally excluded from this repository. Set `CKM_NHANES_QC_INPUT` and `CKM_NHANES_QC_OUTPUT` before running it.
 
